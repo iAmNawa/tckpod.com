@@ -11,11 +11,14 @@ html {
 
 .comingText {
   text-align: center;
+  font-family: 'Oswald', sans-serif;
+  text-shadow: 1px 1px #e27f30;
 }
 
 img {
-   width: 70%;
-   height: 70%;
+   width: 80%;
+   height: 80%;
    align-self: center;
    margin: auto;
+   border: 1px solid black;
 }
