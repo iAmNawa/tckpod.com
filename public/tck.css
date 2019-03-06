@@ -1,0 +1,21 @@
+html {
+   width:100%;
+   height:100%;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.comingText {
+  text-align: center;
+}
+
+img {
+   width: 70%;
+   height: 70%;
+   align-self: center;
+   margin: auto;
+}
